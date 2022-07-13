@@ -10,6 +10,7 @@ Francisco Oliveira | 201907361 | 18.2 | 25%
 Sara Marinha | 201906805 | 18.2 | 25%
 
 **Global Grade of the Project:** 18.2
+**Actual Grade:** 19.2
 
 ## Summary
 
