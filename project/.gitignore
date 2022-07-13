@@ -1,0 +1,12 @@
+/bin/
+.idea/
+.gradle/
+/build/
+/.settings/
+/generated/
+/run/
+out/
+
+# Class files
+**/*.class
+!libs-jmm/**/*.class
